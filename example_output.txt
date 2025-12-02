@@ -1,0 +1,55 @@
+✔ Tokens found
+✔ Type of token
+
+Token                | Type
+-------------------- -|---------------------
+int                 | Keyword
+main                | Identifier
+(                  | Delimiter
+)                  | Delimiter
+{                   | Delimiter
+int                 | Keyword
+a                   | Identifier
+=                   | Operator
+10                  | Number
+;                   | Delimiter
+float               | Keyword
+b                   | Identifier
+=                   | Operator
+3.14                | Number
+;                   | Delimiter
+char                | Keyword
+ch                  | Identifier
+=                   | Operator
+'                   | Unknown
+x                   | Unknown
+'                   | Unknown
+;                   | Delimiter
+string              | Identifier
+s                   | Identifier
+=                   | Operator
+"hello world"      | String
+;                   | Delimiter
+for                 | Keyword
+(                   | Delimiter
+int                 | Keyword
+i                   | Identifier
+<                   | Operator
+5                   | Number
+)                   | Delimiter
+{                   | Delimiter
+if                  | Keyword
+(                   | Delimiter
+a                   | Identifier
+>=                  | Operator
+10                  | Number
+)                   | Delimiter
+a                   | Identifier
+=                   | Operator
+i                   | Identifier
+;                   | Delimiter
+}                   | Delimiter
+return              | Keyword
+0                   | Number
+;                   | Delimiter
+}                   | Delimiter

@@ -1,0 +1,12 @@
+// Small focused test input for tokenizer
+// Tests: char literals, escaped chars, strings with escaped quotes,
+// numbers (.45 and scientific), operators, and comments.
+
+char c = 'a';
+char esc = '\n';
+string s = "He said \"Hi\" and left";
+float a = .45;
+double b = 1.2e-3;
+int n = 10;
+if (a <= b && n != 0) n++;
+// end of test
